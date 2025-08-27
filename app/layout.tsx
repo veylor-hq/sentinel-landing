@@ -7,7 +7,6 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Sentinel - Personal Operations Platform",
   description: "The Personal Operations Platform. Awareness. Accountability. Adaptability.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
