@@ -17,6 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
+      <script defer src="https://umami.ihorsavenko.com/script.js" data-website-id="dc5ffc59-d750-48d0-9d44-e1b5b0815549"></script>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} antialiased`}>{children}</body>
     </html>
   )
